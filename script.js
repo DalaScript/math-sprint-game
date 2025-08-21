@@ -249,7 +249,7 @@ function countdownStart() {
   const timeCountDown = setInterval(() => {
     count--;
     if (count === 0) {
-      countdown.textContent = 'Go';
+      countdown.textContent = 'GO!';
     } else if (count === -1) {
       showGamePage();
       clearInterval(timeCountDown);
