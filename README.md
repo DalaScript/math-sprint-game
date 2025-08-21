@@ -2,7 +2,7 @@
 
 **Project 15/20**
 
-**In Process**
+🧮 The **Math Sprint Game** is a web-based app that challenges players to solve multiplication equations as fast as possible. Choose the number of questions, race against the clock, and try to beat your best time saved in `localStorage`.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📸 Screenshot
 
-  **In Process**
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -37,7 +37,12 @@
 
 ### 📌 Features
 
-  **In Process**
+  - ✅ Option to choose 10, 25, 50, or 99 questions
+  - ✅ Randomly generated correct & incorrect equations
+  - ✅ 3-2-1 countdown before each round
+  - ✅ Timer scoring with penalty for wrong answers
+  - ✅ Best scores saved in localStorage
+  - ✅ Replay option with responsive design
 
 ---
 
@@ -45,11 +50,27 @@
 
 ### 🛠️ Built with
 
-  **In Process**
+  - HTML5
+  - CSS3
+  - Vanilla JavaScript
+  - localStorage
+  - Custom Shuffle Algorithm
 
 ### 🎓 What I Learned
 
-  **In Process**
+  - Generating and randomizing equations with JavaScript
+  - Handling timers, countdowns, and game state
+  - Using `localStorage` to persist best scores
+  - Managing multi-page flow within one HTML file
+  - Building smooth and interactive UI with DOM manipulation
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
 ### 🔙 Previous Project
 
@@ -57,20 +78,16 @@
 
 ### 🔜 Next Project
 
- - Drag n' Drop | *[Project 16/20]* → [View Repository](https://github.com/DalaScript/drag-and-drop)
+ - Drag n' Drop | *[Project 16/20]* → [View Repository](https://github.com/DalaScript/drag-n-drop)
 
 ### 🗃️ Useful resources
 
- - [Loaf](https://getloaf.io/) – Free animated loaders
- - [](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp)
- - [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
- - [](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
- - [](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll)
- - [](https://www.w3schools.com/js/js_timing.asp)
- - [](https://www.w3schools.com/js/js_timing.asp)
- - [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed)
- - []()
- 
+ - [W3Schools – Hide Scrollbars](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp)
+ - [MDN – Math.random(](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+ - [StackOverflow – Shuffle Array](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
+ - [MDN – Element.scroll](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll)
+ - [W3Schools – JavaScript Timing Events](https://www.w3schools.com/js/js_timing.asp)
+ - [MDN – Number.toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed)
 
 ---
 
