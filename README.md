@@ -78,7 +78,7 @@
 
 ### 🔜 Next Project
 
- - Drag n' Drop | *[Project 16/20]* → [View Repository](https://github.com/DalaScript/drag-n-drop)
+ - Drag and Drop | *[Project 16/20]* → [View Repository](https://github.com/DalaScript/drag-and-drop)
 
 ### 🗃️ Useful resources
 
